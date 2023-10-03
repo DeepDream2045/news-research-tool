@@ -27,4 +27,4 @@ OPENAI_API_KEY=YOUR-OPENAI-API-KEY
 
 ## The Application
 
-![News Research Tool](https://github.com/DeepDream2045/news-research-tool/master/data/screenshots/UI_Screenshot.png?raw=true)
+![News Research Tool](https://github.com/DeepDream2045/news-research-tool/tree/master/data/screenshots/UI_Screenshot.png?raw=true)
